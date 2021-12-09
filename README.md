@@ -3,7 +3,6 @@
 Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia de Software na [UFC](https://es.quixada.ufc.br/) e finalizando o bootcamp de Spring da [DevSuperior](https://devsuperior.com.br/bootcamp). Sou empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, busco sempre aprender novas tecnologias realizando cursos e desafios práticos constantemente.
   
 ##
-### Tecnologias utilizadas:
 <div align="left">
   <a href="https://github.com/jpdal98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpdal98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
