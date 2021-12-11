@@ -23,8 +23,6 @@ Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia d
   <img align = "center" alt="Postman" width="38" height="37" src="https://i.imgur.com/WVuA8RH.png"/>
   <img align = "center" alt="Insomnia" width="43" height="43" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png"/> 
   <img align = "center" alt="Git" width="38" height="37" src="https://i.imgur.com/5pIevzW.png"/> 
-  <img align = "center" alt="GitHub" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png"/>
-  <img align = "center" alt="GitLab" width="38" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> 
 
 
 ##
