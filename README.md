@@ -21,7 +21,7 @@ Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia d
   <img align="center" alt="PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="MySQL" height="70" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="37" src="https://i.imgur.com/WVuA8RH.png"/>
-  <img align = "center" alt="Swagger" width="42" height="42" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png"/>
+  <img align = "center" alt="Swagger" width="43" height="43" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png"/>
   <img align = "center" alt="Git" width="38" height="37" src="https://i.imgur.com/5pIevzW.png"/>
 
 
