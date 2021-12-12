@@ -18,7 +18,6 @@ Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia d
   <img align="center" alt="JUnit5" height="38" width="37" src="https://i.imgur.com/co3aDyw.png">
   <img align="center" alt="Mockito" height="50" width="110" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
-  <img align="center" alt="Tomcat" height="38" width="37" src="https://icongr.am/devicon/tomcat-original.svg?size=128&color=currentColor">
   <img align="center" alt="PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="MySQL" height="70" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="37" src="https://i.imgur.com/WVuA8RH.png"/>
