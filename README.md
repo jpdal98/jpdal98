@@ -20,8 +20,8 @@ Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia d
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
   <img align="center" alt="PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="MySQL" height="70" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align = "center" alt="Postman" width="38" height="37" src="https://i.imgur.com/WVuA8RH.png"/>
-  <img align = "center" alt="Swagger" width="43" height="43" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png"/>
+  <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
+  <img align = "center" alt="Swagger" width="38" height="38" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8wMTdkZmU0MDdhYjUwMDQ3ZjMwMTNiYzg5MzRkZmEzZj9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.MIC4GKSnefOtBtc-NjAl9WE0XmUgtUBTTydp4gFv7No"/>
   <img align = "center" alt="Git" width="38" height="37" src="https://i.imgur.com/5pIevzW.png"/>
 
 
