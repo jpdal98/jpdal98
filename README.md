@@ -21,7 +21,7 @@ Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia d
   <img align="center" alt="PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="MySQL" height="70" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
-  <img align = "center" alt="Swagger" width="38" height="38" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
+  <img align = "center" alt="Swagger" width="40" height="50" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
   <img align = "center" alt="Git" width="38" height="37" src="https://i.imgur.com/5pIevzW.png"/>
 
 
