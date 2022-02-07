@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Eu sou o João Pedro!!</h1>
 
-Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia de Software na [UFC](https://www.quixada.ufc.br/) e finalizando o bootcamp de Spring da [DevSuperior](https://devsuperior.com.br/bootcamp) e o curso de [Microsserviços Java com Spring Boot e Spring Cloud](https://www.udemy.com/course/microsservicos-java-spring-cloud/) da Udemy. Sou empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, busco sempre aprender novas tecnologias realizando cursos e desafios práticos constantemente.
+Sou um Desenvolvedor Java Jr. autodidata. No momento estou cursando Engenharia de Software na [UFC](https://www.quixada.ufc.br/), finalizando o bootcamp de Spring da [DevSuperior](https://devsuperior.com.br/bootcamp) e o curso de [Microsserviços Java com Spring Boot e Spring Cloud](https://www.udemy.com/course/microsservicos-java-spring-cloud/) da Udemy. Sou empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, busco sempre aprender novas tecnologias realizando cursos e desafios práticos constantemente.
   
 ##
 <div align="left">
