@@ -12,7 +12,8 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
 ##
 ### Tecnologias utilizadas:
   <img align="center" alt="Linux" height="48" width="48" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png">
-  <img align="center" alt="Java" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Python" height="55" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align = "center" alt="Spring" width="43" height="43" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"/> 
   <img align = "center" alt="Hibernate" width="120" height="67" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_169034.png"/> 
   <img align="center" alt="JUnit5" height="38" width="37" src="https://i.imgur.com/co3aDyw.png">
