@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu sou o João Pedro!!</h1>
+<h1 align="center">Olá, meu nome é João Pedro!!</h1>
 
 Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcamp de Spring da [DevSuperior](https://devsuperior.com.br/bootcamp) . Sou empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, busco sempre aprender novas tecnologias realizando cursos e desafios práticos constantemente.
   
