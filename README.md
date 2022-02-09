@@ -15,10 +15,10 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
   <img align="center" alt="Java" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align = "center" alt="Spring" width="43" height="43" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"/> 
   <img align = "center" alt="Hibernate" width="120" height="67" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_169034.png"/> 
-  <img align="center" alt="JUnit5" height="38" width="37" src="https://i.imgur.com/co3aDyw.png">
-  <img align="center" alt="Mockito" height="50" width="110" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
+  <img align="center" alt="JUnit5" height="38" width="38" src="https://i.imgur.com/co3aDyw.png">
+  <img align="center" alt="Mockito" height="50" width="100" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
-  <img align="center" alt="PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="PostgreSQL" height="45" width="45" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="MySQL" height="70" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
   <img align = "center" alt="Swagger" width="51" height="41" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
