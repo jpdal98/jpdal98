@@ -19,7 +19,7 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
   <img align="center" alt="Mockito" height="50" width="100" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
   <img align="center" alt="PostgreSQL" height="45" width="45" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="MySQL" height="70" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="MySQL" height="70" width="90" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
   <img align = "center" alt="Swagger" width="51" height="41" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
   <img align = "center" alt="Git" width="38" height="37" src="https://i.imgur.com/5pIevzW.png"/>
