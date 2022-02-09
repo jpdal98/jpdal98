@@ -23,6 +23,7 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
   <img align = "center" alt="Swagger" width="51" height="41" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
   <img align = "center" alt="Git" width="38" height="37" src="https://i.imgur.com/5pIevzW.png"/>
+  <img align = "center" alt="Docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 
 
 ##
