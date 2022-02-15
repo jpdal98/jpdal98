@@ -17,11 +17,14 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
   <img align = "center" alt="Hibernate" width="120" height="67" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_169034.png"/> 
   <img align="center" alt="JUnit5" height="38" width="38" src="https://i.imgur.com/co3aDyw.png">
   <img align="center" alt="Mockito" height="50" width="100" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
+  <img align="center" alt="SpringSec" height="32" width="85" src="https://www.dariawan.com/media/images/tech-spring-security.width-1024.png">
+  <img align="center" alt="JWT" height="38" width="38" src="https://jwt.io/img/pic_logo.svg">
+  <img align="center" alt="Bean" height="48" width="48" src="https://beanvalidation.org/logo/logo.svg">
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
   <img align="center" alt="H2" height="30" width="36" src="https://www.h2database.com/html/images/h2-logo-2.png">
   <img align="center" alt="PostgreSQL" height="42" width="42" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="MySQL" height="70" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="MongoDB" height="37" width="37" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png">
+  <img align="center" alt="MySQL" height="70" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
   <img align = "center" alt="Swagger" width="50" height="40" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
   <img align = "center" alt="Git" width="39" height="39" src="https://i.imgur.com/5pIevzW.png"/>
