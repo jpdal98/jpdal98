@@ -19,13 +19,14 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
   <img align="center" alt="Mockito" height="50" width="100" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
   <img align="center" alt="PostgreSQL" height="45" width="45" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="MySQL" height="70" width="90" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="MongoDB" height="37" width="37" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png">
+  <img align="center" alt="MySQL" height="70" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
-  <img align = "center" alt="Swagger" width="51" height="41" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
+  <img align = "center" alt="Swagger" width="50" height="40" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
   <img align = "center" alt="Git" width="39" height="39" src="https://i.imgur.com/5pIevzW.png"/>
   <img align = "center" alt="Docker" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align = "center" alt="GitHubActions" width="39" height="39" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4"/>
+  <img align = "center" alt="Sonar" width="39" height="39" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sonarqube/img/sonarqube-stack-220x234.png"/>
   <img align = "center" alt="GitLab" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
   <img align = "center" alt="Heroku" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
   <img align = "center" alt="Amazon" width="45" height="50" src="https://img.icons8.com/color/344/amazon-web-services.png"/>
