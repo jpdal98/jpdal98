@@ -18,7 +18,7 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
   <img align="center" alt="JUnit5" height="37" width="37" src="https://i.imgur.com/co3aDyw.png">
   <img align="center" alt="Mockito" height="50" width="100" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
   <img align="center" alt="SpringSec" height="32" width="85" src="https://www.dariawan.com/media/images/tech-spring-security.width-1024.png">
-  <img align="center" alt="JWT" height="37" width="37" src="https://jwt.io/img/pic_logo.svg">
+  <img align="center" alt="JWT" height="37" width="57" src="https://jwt.io/img/pic_logo.svg">
   <img align="center" alt="Bean" height="46" width="46" src="https://beanvalidation.org/logo/logo.svg">
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
   <img align="center" alt="H2" height="30" width="36" src="https://www.h2database.com/html/images/h2-logo-2.png">
