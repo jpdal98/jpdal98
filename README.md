@@ -26,7 +26,6 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
   <img align = "center" alt="Git" width="39" height="39" src="https://i.imgur.com/5pIevzW.png"/>
   <img align = "center" alt="Docker" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align = "center" alt="GitHubActions" width="39" height="39" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4"/>
-  <img align = "center" alt="Sonar" width="39" height="39" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/sonarqube/img/sonarqube-stack-220x234.png"/>
   <img align = "center" alt="GitLab" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
   <img align = "center" alt="Heroku" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
   <img align = "center" alt="Amazon" width="45" height="50" src="https://img.icons8.com/color/344/amazon-web-services.png"/>
