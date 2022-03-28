@@ -11,10 +11,10 @@ Sou um Desenvolvedor Java Jr. autodidata. Atualmente estou finalizando o bootcam
 
 ##
 ### Tecnologias utilizadas:
-  <img align="center" alt="HTML5" height="48" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="48" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="HTML5" height="48" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="48" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Jquery" height="48" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="center" alt="Bootstrap" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Bootstrap" height="48" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Java" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align = "center" alt="Spring" width="43" height="43" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"/> 
   <img align = "center" alt="JPAHibernate" width="55" height="55" src="https://www.ambient-it.net/wp-content/uploads/2016/04/jpa-logo-175.png"/> 
