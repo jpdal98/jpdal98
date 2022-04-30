@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é João Pedro!!</h1>
 
-Sou Desenvolvedor de Software com bacharelado em Engenharia de Software com um ano e sete meses de experiência em desenvolvimento de software. Trabalhei com desenvolvimento de software, práticas ágeis e especificação de requisitos.
+Sou desenvolvedor de software com bacharelado em Engenharia de Software com um ano e oito meses de experiência em desenvolvimento de software. Trabalhei com desenvolvimento de software, práticas ágeis e especificação de requisitos.
 
 Adoro aprender, codificar e entregar soluções. Gosto de desafios e trabalho duro todos os dias para ser um profissional melhor e, mais do que isso, uma pessoa melhor. Quando faço isso através da tecnologia, procuro sempre entregar o melhor, com qualidade e também com muito amor. Procuro fazer o que os clientes esperam, com a melhor qualidade para atender suas reais necessidades. Se para isso eu tiver que aprender uma nova linguagem de programação, um novo framework, farei isso com muito entusiasmo.
 
