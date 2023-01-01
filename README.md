@@ -15,6 +15,7 @@ No final das contas, quero contribuir para tornar nosso mundo um lugar melhor pa
 
 ##
 ### Tecnologias utilizadas:
+  <div align="left">
   <img align="center" alt="HTML5" height="48" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="48" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Jquery" height="48" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
@@ -36,7 +37,7 @@ No final das contas, quero contribuir para tornar nosso mundo um lugar melhor pa
   <img align = "center" alt="Git" width="39" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align = "center" alt="Docker" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align = "center" alt="GitLab" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-
+</div>
 
 ##
 ### Contatos:
