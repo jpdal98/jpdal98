@@ -1,10 +1,10 @@
 <h1 align="center">Olá, meu nome é João Pedro!!</h1>
 
-Sou desenvolvedor de software com bacharelado em Engenharia de Software com dois anos e dois meses de experiência em desenvolvimento de software. Trabalhei com desenvolvimento de software, práticas ágeis e especificação de requisitos.
+Olá tudo bem!! me chamo João Pedro Dos Anjos Lopes. Sou formado em Engenharia de Software pela Universidade Federal do Ceará. Atualmente tenho 2+ de experiência com a área de desenvolvimento de software. Já trabalhei com: HTML, CSS, JavaScript, Java, PHP, Spring (mvc, boot, data, security, etc.), Struts, JSP, JPA/Hibernate, Bancos de Dados Relacionais (PostgreSql, MySQl, DB2 e Oracle), Maven , XML, JasperReports, Junit, Mockito, Git, Tortoise, GitHub, GitLab, BitBucket e Metodologias Ágeis (Scrum e Kanban).
 
-Adoro aprender, codificar e entregar soluções. Gosto de desafios e trabalho duro todos os dias para ser um profissional melhor e, mais do que isso, uma pessoa melhor. Quando faço isso através da tecnologia, procuro sempre entregar o melhor, com qualidade e também com muito amor. Procuro fazer o que os clientes esperam, com a melhor qualidade para atender suas reais necessidades. Se para isso eu tiver que aprender uma nova linguagem de programação, um novo framework, farei isso com muito entusiasmo.
+Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar soluções. Gosto muito de desafios e trabalho duro todos os dias para ser um profissional melhor e, mais do que isso, uma pessoa melhor. Quando faço isso através da tecnologia, procuro sempre entregar o melhor, com qualidade e também com muito amor. Procuro fazer o que os clientes esperam, com a melhor qualidade para atender suas reais necessidades. Se para isso tiver que aprender uma nova linguagem de programação, um novo framework, farei com muito entusiasmo.
 
-No final das contas, quero contribuir para tornar nosso mundo um lugar melhor para se viver.
+No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
   
 ##
 <div align="left">
@@ -31,7 +31,7 @@ No final das contas, quero contribuir para tornar nosso mundo um lugar melhor pa
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
   <img align="center" alt="H2" height="32" width="36" src="https://www.h2database.com/html/images/h2-logo-2.png">
   <img align="center" alt="PostgreSQL" height="42" width="42" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="MySQL" height="70" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">  <img align="center" alt="MySQL" height="70" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
   <img align = "center" alt="Swagger" width="49" height="39" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
   <img align = "center" alt="Git" width="39" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
