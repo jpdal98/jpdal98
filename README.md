@@ -6,9 +6,9 @@ Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar
 
 No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
   
-
-<img src="https://tenor.com/pt-BR/view/developer-programmer-gif-24927594">
 ##
+
+<img src="https://tenor.com/pt-BR/view/developer-programmer-gif-24927594"> 
 <div align="left">
   <a href="https://github.com/jpdal98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpdal98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
