@@ -18,6 +18,7 @@ No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo
   <div align="left">
   <img align="center" alt="HTML5" height="48" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="48" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="48" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Jquery" height="48" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Bootstrap" height="48" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Java" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -32,12 +33,12 @@ No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo
   <img align="center" alt="MySQL" height="70" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align = "center" alt="Postman" width="38" height="38" src="https://i.imgur.com/WVuA8RH.png"/>
   <img align = "center" alt="Swagger" width="49" height="39" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png"/>
-  <img align = "center" alt="Tomcat" width="49" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
+  <img align = "center" alt="Tomcat" width="55" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
   <img align = "center" alt="Git" width="39" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align = "center" alt="Tortoise" width="39" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg"/>
+  <img align = "center" alt="Tortoise" width="50" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg"/>
   <img align = "center" alt="Docker" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align = "center" alt="GitLab" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-  <img align = "center" alt="BitBucket" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>
+  <img align = "center" alt="BitBucket" width="50" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>
 </div>
 
 ##
