@@ -5,13 +5,9 @@ Sou formado em Engenharia de Software pela Universidade Federal do Ceará. Atual
 Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar soluções. Gosto muito de desafios e trabalho duro todos os dias para ser um profissional melhor e, mais do que isso, uma pessoa melhor. Quando faço isso através da tecnologia, procuro sempre entregar o melhor, com qualidade e também com muito amor. Procuro fazer o que os clientes esperam, com a melhor qualidade para atender suas reais necessidades. Se para isso tiver que aprender uma nova linguagem de programação, um novo framework, farei com muito entusiasmo.
 
 No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
-##
 
-<p align="right">
+<p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
-<p align="left">
-  <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" width="350">
 </p>
 
 <div align="left">
