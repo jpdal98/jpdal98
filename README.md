@@ -6,6 +6,8 @@ Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar
 
 No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
   
+
+<img src="https://tenor.com/pt-BR/view/developer-programmer-gif-24927594">
 ##
 <div align="left">
   <a href="https://github.com/jpdal98">
@@ -14,7 +16,7 @@ No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo
 </div>
 
 ##
-### Tecnologias utilizadas:
+### Ferramentas e Tecnologias:
   <div align="left">
   <img align="center" alt="HTML5" height="48" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="48" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
