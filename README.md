@@ -5,10 +5,9 @@ Sou formado em Engenharia de Software pela Universidade Federal do Ceará. Atual
 Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar soluções. Gosto muito de desafios e trabalho duro todos os dias para ser um profissional melhor e, mais do que isso, uma pessoa melhor. Quando faço isso através da tecnologia, procuro sempre entregar o melhor, com qualidade e também com muito amor. Procuro fazer o que os clientes esperam, com a melhor qualidade para atender suas reais necessidades. Se para isso tiver que aprender uma nova linguagem de programação, um novo framework, farei com muito entusiasmo.
 
 No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
-  
 ##
+![](https://tenor.com/pt-BR/view/developer-programmer-gif-24927594)
 
-<img src="https://tenor.com/pt-BR/view/developer-programmer-gif-24927594"> 
 <div align="left">
   <a href="https://github.com/jpdal98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpdal98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
