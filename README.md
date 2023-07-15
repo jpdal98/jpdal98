@@ -11,7 +11,7 @@ No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 <p align="left">
-  <img src="https://tenor.com/pt-BR/view/monkey-developer-software-coding-debug-gif-15160023" width="350">
+  <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" width="350">
 </p>
 
 <div align="left">
