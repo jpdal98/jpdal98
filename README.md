@@ -6,7 +6,11 @@ Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar
 
 No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
 ##
-<div class="tenor-gif-embed" data-postid="24927594" data-share-method="host" data-aspect-ratio="0.85" data-width="100%"><a href="https://tenor.com/view/developer-programmer-gif-24927594">Developer Programmer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 <div align="left">
   <a href="https://github.com/jpdal98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpdal98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
