@@ -38,7 +38,7 @@ No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo
   <img align = "center" alt="Tortoise" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg"/>
   <img align = "center" alt="Docker" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align = "center" alt="GitLab" width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-  <img align = "center" alt="BitBucket" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>
+  <img align = "center" alt="BitBucket" width="80" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>
 </div>
 
 ##
