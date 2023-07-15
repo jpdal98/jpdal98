@@ -7,8 +7,11 @@ Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar
 No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
 ##
 
-<p align="center">
+<p align="right">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+<p align="left">
+  <img src="https://tenor.com/pt-BR/view/developer-programmer-gif-24927594" width="350">
 </p>
 
 <div align="left">
