@@ -1,8 +1,8 @@
 <h1 align="center">Olá, meu nome é João Pedro!!</h1>
 Olá tudo bem!! me chamo João Pedro Dos Anjos Lopes. Sou formado em Engenharia de Software pela Universidade Federal do Ceará. Atualmente tenho 2+ de experiência com a área de desenvolvimento de software. Já trabalhei com: HTML, CSS, JavaScript, Java, PHP, Spring (mvc, boot, data, security, etc.), Struts, JSP, JPA/Hibernate, Bancos de Dados Relacionais (PostgreSql, MySQl, DB2 e Oracle), Maven , XML, JasperReports, Junit, Mockito, Git, Tortoise, GitHub, GitLab, BitBucket e Metodologias Ágeis (Scrum e Kanban).
-
+<br>
 Sou um Dev. extrovertido e comunicativo que adora aprender, codificar e entregar soluções. Gosto muito de desafios e trabalho duro todos os dias para ser um profissional melhor, e mais do que isso, uma pessoa melhor. Quando faço isso através da tecnologia, procuro sempre entregar o melhor, com qualidade e também com muito amor. Procuro fazer o que os clientes esperam, com a melhor qualidade para atender suas reais necessidades. Se para isso tiver que aprender uma nova linguagem de programação, um novo framework, farei com muito entusiasmo.
-
+<br>
 No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo um lugar melhor para se viver.
 ##
 <div align="left">
