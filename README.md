@@ -19,6 +19,7 @@ No final das contas, tudo o que mais quero é contribuir para tornar nosso mundo
   <img align = "center" alt="JPAHibernate" width="55" height="55" src="https://www.ambient-it.net/wp-content/uploads/2016/04/jpa-logo-175.png"/> 
   <img align="center" alt="JUnit5" height="37" width="37" src="https://i.imgur.com/co3aDyw.png">
   <img align="center" alt="Maven" height="38" width="37" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
+  <img align="center" alt="flyway" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg">
   <img align="center" alt="H2" height="32" width="36" src="https://www.h2database.com/html/images/h2-logo-2.png">
   <img align="center" alt="PostgreSQL" height="42" width="42" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img align="center" alt="Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">  
